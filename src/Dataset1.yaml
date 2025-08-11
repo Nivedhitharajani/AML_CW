@@ -1,0 +1,14 @@
+train: /user/downloads/AircraftDataset/images/train
+val: /user/downloads/AircraftDataset/images/val
+test: /user/downloads/AircraftDataset/images/test
+
+nc: 81  # Number of classes
+names: [
+    'Mi28', 'UH60', 'F16', 'H6', 'F18', 'F22', 'F35', 'JAS39', 'B52', 'JH7', 'KF21', 'US2', 'Be200', 
+    'EF2000', 'C2', 'P3', 'CL415', 'E2', 'Rafale', 'Mig31', 'Su25', 'XB70', 'YF23', 'Su57', 'F15', 'KC135',
+    'An72', 'An22', 'B2', 'An124', 'Tu160', 'C5', 'J20', 'B1', 'C130', 'A10', 'V22', 'C390', 'F117', 'WZ7', 
+    'E7', 'CH47', 'AH64', 'Mi24', 'U2', 'AG600', 'KJ600', 'RQ4', 'Tu22M', 'SR71', 'J10', 'Mirage2000', 
+    'AV8B', 'Tu95', 'A400M', 'MQ9', 'F14', 'Su34', 'F4', 'Mi8', 'Mig29', 'Z10', 'JF17', 'TB001', 'KAAN', 
+    'Ka52', 'Il76', 'C17', 'EMB314', 'An225', 'Y20', 'Su24', 'TB2', 'Ka27', 'Tornado', 'Vulcan', 'Z19', 
+    'V280', 'Mi26', 'J35', 'B21'
+]
